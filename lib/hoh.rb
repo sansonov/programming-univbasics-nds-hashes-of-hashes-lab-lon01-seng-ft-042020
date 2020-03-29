@@ -29,20 +29,20 @@
 #   label: "Species",
 #   sub_category: nil
 # }
-Kingdom = {
-  :Phylum => {
-    :Class => {
-      :Order =>{
-        :Family => {
-          :Genus => {
-            :Species => {
-            }
-          }
-        }
-      }
-    }
-  }
-}
+# Kingdom = {
+#   :Phylum => {
+#     :Class => {
+#       :Order =>{
+#         :Family => {
+#           :Genus => {
+#             :Species => {
+#             }
+#           }
+#         }
+#       }
+#     }
+#   }
+# }
 
 
 
