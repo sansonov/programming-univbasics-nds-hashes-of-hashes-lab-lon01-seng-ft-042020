@@ -33,8 +33,10 @@ Kingdom = {
   :Phylum => {
     :Class => {
       :Order =>{
-        :Genus => {
-          :Species => {
+        :Family => {
+          :Genus => {
+            :Species => {
+            }
           }
         }
       }
