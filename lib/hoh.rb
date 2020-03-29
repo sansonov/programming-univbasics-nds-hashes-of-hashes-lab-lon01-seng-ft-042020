@@ -35,7 +35,7 @@ Kingdom = {
       :Order =>{
         :Genus => {
         },
-      },
+      }
     }
   }
 }
