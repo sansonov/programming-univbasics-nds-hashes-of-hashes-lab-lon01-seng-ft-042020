@@ -34,12 +34,14 @@ Kingdom = {
     :Class => {
       :Order =>{
         :Genus => {
+          :Species => {
+          }
         }
       }
     }
   }
 }
-}
+
 
 
 def naming_system
