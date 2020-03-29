@@ -31,8 +31,10 @@
 # }
 Kingdom = {
   :Phylum => {
-    :Class
+    :Class => {
+    }
   }
+}
   }
 }
 
